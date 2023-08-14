@@ -10,3 +10,6 @@ def func():
 if __name__ == "name":
     func()
     print("vander")
+
+
+x = 1
